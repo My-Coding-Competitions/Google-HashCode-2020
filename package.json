@@ -1,0 +1,15 @@
+{
+  "name": "hash-code-2020",
+  "version": "0.0.0",
+  "description": "HashCode-2020",
+  "main": "Qualification Round/bookScanning.js",
+  "scripts": {
+    "install-deps": "npm install -g jsdoc",
+    "start": "cd Qualification Round && node bookscanning.js",
+    "generate-docs": "jsdoc \"Qualification Round/bookScanning.js\""
+  },
+  "author": {
+    "name": "Odudimu Samuel",
+    "email": "blessedsamuelodu@gmail.com"
+  }
+}
