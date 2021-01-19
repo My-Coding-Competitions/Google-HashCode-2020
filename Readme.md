@@ -30,7 +30,7 @@ each library needs to be signed up before it can ship books.
   must be inversely proportional to library signUp days.
 - The following expression shows how library priority is calculated `let priority = (bookWeight * bookDispatchRate) / noOfBookSignupDays;`
 
-For more information checkout the [API documentation](/documentation/global.html) of our solution.
+For more information checkout the [API documentation](https://sirmeelynx.github.io/Google-HashCode-2020/documentation/global.html) of our solution.
 
 ## Try It Out
 make sure you have [node](https://nodejs.org/en/download/) installed in your environment.
